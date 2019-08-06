@@ -1,5 +1,5 @@
 # PHP-native-function-namespaced
-All the PHP native function to precede with a backslash
+All the PHP native function to precede with a backslash if not in the global namespace
 
 "array_slice"
 "assert"
